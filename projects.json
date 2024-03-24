@@ -1,0 +1,63 @@
+[
+    {
+      "category": "Web Design",
+      "name": "Project One",
+      "description": "A sleek, user-friendly website redesign for a boutique online store, enhancing user experience with intuitive navigation and responsive layouts.",
+      "imageUrl": "photos/photo1.webp"
+    },
+    {
+      "category": "Graphic Design",
+      "name": "Branding Suite",
+      "description": "Comprehensive branding suite for a startup, including logo design, color scheme, typography, and business cards, emphasizing a modern and cohesive brand identity.",
+      "imageUrl": "photos/photo2.webp"
+    },
+    {
+      "category": "Web Development",
+      "name": "Interactive Portfolio",
+      "description": "An interactive portfolio website featuring dynamic content and animations, built with React and GSAP for smooth transitions and engaging user interactions.",
+      "imageUrl": "photos/photo3.webp"
+    },
+    {
+      "category": "Mobile App Development",
+      "name": "Fitness Tracker",
+      "description": "A mobile app designed to track fitness activities, set goals, and monitor progress with personalized workout plans and nutrition tracking.",
+      "imageUrl": "photos/photo4.webp"
+    },
+    {
+      "category": "Digital Marketing",
+      "name": "SEO Strategy Campaign",
+      "description": "A comprehensive SEO strategy campaign for a local restaurant, leading to increased online visibility, website traffic, and customer engagement.",
+      "imageUrl": "photos/photo5.webp"
+    },
+    {
+      "category": "Photography",
+      "name": "Urban Landscape Series",
+      "description": "A captivating photography series capturing the essence of urban landscapes at twilight, showcasing the interplay of light and architecture.",
+      "imageUrl": "photos/photo6.webp"
+    },
+    {
+      "category": "Illustration",
+      "name": "Children's Book Illustrations",
+      "description": "Whimsical and vibrant illustrations for a children’s book, bringing stories to life with engaging characters and imaginative settings.",
+      "imageUrl": "photos/photo7.webp"
+    },
+    {
+      "category": "UI/UX Design",
+      "name": "E-commerce Mobile App",
+      "description": "A user-centric UI/UX design for an e-commerce mobile app.",
+      "imageUrl": "photos/photo8.webp"
+    },
+    {
+      "category": "Video Production",
+      "name": "Documentary Short Film",
+      "description": "Exploring the impact of climate change on coastal communities.",
+      "imageUrl": "photos/photo9.webp"
+    },
+    {
+      "category": "Web Design",
+      "name": "Non-Profit Organization Website",
+      "description": "A responsive website design for a non-profit organization.",
+      "imageUrl": "photos/photo10.webp"
+    }
+  ]
+  
